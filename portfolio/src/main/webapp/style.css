@@ -7,3 +7,8 @@
 #greeting-container {
   margin-top: 20px;
 }
+
+body {
+  background-color:#cffff7;
+  font:20px Arial, sans-serif;
+}
